@@ -2,4 +2,4 @@
 
 ## Eye Sight Prediction model prototype:
 
-![My Logo](prototype of sight prediction model.png)
+![](prototype_of_sight_prediction_model.png)
